@@ -13,7 +13,7 @@ Only assets from creators who have granted permission are included. If a creator
 
 ## Usage
 
-Assets in this repository are intended for **documentation purposes on the A Hat in Time Wiki**.  
+Assets in this repository are intended for documentation purposes on the A Hat in Time Wiki, with the intention of using these assets in your own mods.
 They remain the property of their original creators.
 
 ## Attribution
