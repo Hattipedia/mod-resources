@@ -6,10 +6,7 @@ These assets are used to help document mods, gameplay elements, and related cont
 
 ## Permission
 
-Assets included in this repository originate from community contributors. 
-Before uploading any asset to this repository, permission is requested from the respective creators.
-
-Only assets from creators who have granted permission are included. If a creator requests that their assets be removed, they will be removed from the repository.
+Assets included in this repository originate from community contributors. All assets here are provided as is, with permission granted for public usage.
 
 ## Usage
 
